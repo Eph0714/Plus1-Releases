@@ -1,12 +1,11 @@
 {
-    "version":  "1.2.0",
-    "build":  3,
+    "version":  "1.2.1",
+    "build":  4,
     "date":  "2026-11-12",
     "notes":  [
-                  "New: Share Plus 1 - shows the download link and a QR code, and shares it to other devices.",
-                  "New: automatic update check. When a newer version is published, Plus 1 shows what changed and installs it for you.",
-                  "New: Version \u0026 updates screen with the full version history.",
-                  "App renamed to Plus 1."
+                  "New: every tap launches a +1 that flies from your finger into the Total Attendance, which pulses when it lands.",
+                  "Fix: deleting your only event now really deletes it. Before, the app instantly created a new event with today\u0027s date, so it looked like the delete failed.",
+                  "After deleting every event the Counter shows a Create event button."
               ],
-    "apkUrl":  "https://github.com/Eph0714/Plus1-Releases/releases/download/v1.2.0/Plus1-1.2.0.apk"
+    "apkUrl":  "https://github.com/Eph0714/Plus1-Releases/releases/download/v1.2.1/Plus1-1.2.1.apk"
 }
