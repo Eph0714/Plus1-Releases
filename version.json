@@ -1,1 +1,12 @@
-{"version":"1.2.1","build":4,"date":"2026-11-12","notes":["TEST ONLY: update dialog check.","Second note to show the list."],"apkUrl":"https://github.com/Eph0714/Plus1-Releases/releases/download/v1.2.0/Plus1-1.2.0.apk"}
+{
+    "version":  "1.2.0",
+    "build":  3,
+    "date":  "2026-11-12",
+    "notes":  [
+                  "New: Share Plus 1 - shows the download link and a QR code, and shares it to other devices.",
+                  "New: automatic update check. When a newer version is published, Plus 1 shows what changed and installs it for you.",
+                  "New: Version \u0026 updates screen with the full version history.",
+                  "App renamed to Plus 1."
+              ],
+    "apkUrl":  "https://github.com/Eph0714/Plus1-Releases/releases/download/v1.2.0/Plus1-1.2.0.apk"
+}
